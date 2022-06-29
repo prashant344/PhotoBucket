@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhotoBucket/static/css/main.639d65ad.css",
+    "main.js": "/PhotoBucket/static/js/main.dddffb24.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PhotoBucket/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PhotoBucket/index.html",
+    "main.639d65ad.css.map": "/PhotoBucket/static/css/main.639d65ad.css.map",
+    "main.dddffb24.js.map": "/PhotoBucket/static/js/main.dddffb24.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PhotoBucket/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639d65ad.css",
+    "static/js/main.dddffb24.js"
+  ]
+}
