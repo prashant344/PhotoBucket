@@ -1,0 +1,10 @@
+.header {
+    border-bottom: 1px solid #dadce0;
+    padding: 16px;
+}
+.searchBox {
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+    border: 1px solid lightslategrey;
+}
